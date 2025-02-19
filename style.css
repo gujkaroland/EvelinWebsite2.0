@@ -21,6 +21,7 @@ nav {
     z-index: 1000;
     background-color: rgba(245, 245, 245, 0.9);
     backdrop-filter: blur(10px);
+    display: flex;
 }
 
 .right {
